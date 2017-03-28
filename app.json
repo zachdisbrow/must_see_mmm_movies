@@ -1,0 +1,1 @@
+{"name":"Must see MMM Movies","repository":"https://github.com/zachdisbrow/must_see_mmm_movies","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
